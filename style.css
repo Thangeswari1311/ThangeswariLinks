@@ -1,0 +1,95 @@
+body {
+    text-align: center;
+    background: linear-gradient(#fcba03 0%, #e1f0e2 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+
+h1 {
+    text-shadow: 2px #346e37;
+    font-size: 20px;
+}
+
+
+p {
+    font-size: 18px;
+    color: #6A1B9A;
+
+
+}
+
+h2 {
+    font-size: 20px;
+    color: #1A237E;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.menu a {
+    color: black !important;
+}
+
+
+.link {
+    color: crimson;
+    display: inline;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+
+
+.link:hover {
+    background-color: beige;
+}
+
+#My work a{
+    font-size: :30px;
+    
+}
+#References a{
+    font-size: :30px;
+    
+}
+
+.button {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+a
+{
+  text-decoration:none;
+}
